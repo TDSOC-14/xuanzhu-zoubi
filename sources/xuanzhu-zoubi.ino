@@ -1,5 +1,5 @@
 /*                                  XUANZHU-ZOUBI
- *  This program is open source and follows the GPL3.0 protocol.
+ *  This program is free and follows the GPL3.0 protocol.
  *  If you think this program is helpful to you, please star this project on GitHub.
  *  Program written by Fried on May 22, 2022.
  */
